@@ -1,0 +1,3 @@
+port : 1234
+database : demoDatabase
+databaseType: MySQL
